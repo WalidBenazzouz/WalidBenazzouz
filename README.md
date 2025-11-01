@@ -278,11 +278,11 @@ Feel free to reach out for collaborations, questions, or just a tech chat! ☕
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🐍 Contribution Snake
+## 🏅 GitHub Trophies
 
 <div align="center">
   
-![Snake animation](https://raw.githubusercontent.com/WalidBenazzouz/WalidBenazzouz/output/github-contribution-grid-snake-dark.svg)
+![Trophy](https://github-profile-trophy.vercel.app/?username=WalidBenazzouz&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
 
 </div>
 
