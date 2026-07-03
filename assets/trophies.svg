@@ -1,0 +1,50 @@
+<svg width="1100" height="190" viewBox="0 0 1100 190" xmlns="http://www.w3.org/2000/svg" font-family="Segoe UI,Helvetica,Arial,sans-serif">
+<g transform="translate(95,78)" opacity="1">
+  <polygon points="0,-44 38,-22 38,22 0,44 -38,22 -38,-22" fill="#0d1117" stroke="#36BCF7" stroke-width="2.5"></polygon>
+  <polygon points="0,-52 45,-26 45,26 0,52 -45,26 -45,-26" fill="none" stroke="#36BCF7" stroke-width="1" stroke-dasharray="6 9" opacity="0.6">
+    </polygon>
+  <text y="9" text-anchor="middle" font-size="30">🏦</text>
+  <text y="72" text-anchor="middle" font-size="14" font-weight="700" fill="#e6edf3">Banking AI</text>
+  <text y="90" text-anchor="middle" font-family="Consolas,monospace" font-size="11.5" fill="#8b949e">Crédit du Maroc</text>
+</g>
+<g transform="translate(277,78)" opacity="1">
+  <polygon points="0,-44 38,-22 38,22 0,44 -38,22 -38,-22" fill="#0d1117" stroke="#b16cff" stroke-width="2.5"></polygon>
+  <polygon points="0,-52 45,-26 45,26 0,52 -45,26 -45,-26" fill="none" stroke="#b16cff" stroke-width="1" stroke-dasharray="6 9" opacity="0.6">
+    </polygon>
+  <text y="9" text-anchor="middle" font-size="30">✈️</text>
+  <text y="72" text-anchor="middle" font-size="14" font-weight="700" fill="#e6edf3">GenAI in Prod</text>
+  <text y="90" text-anchor="middle" font-family="Consolas,monospace" font-size="11.5" fill="#8b949e">RAG @ Royal Air Maroc</text>
+</g>
+<g transform="translate(459,78)" opacity="1">
+  <polygon points="0,-44 38,-22 38,22 0,44 -38,22 -38,-22" fill="#0d1117" stroke="#ff6b6b" stroke-width="2.5"></polygon>
+  <polygon points="0,-52 45,-26 45,26 0,52 -45,26 -45,-26" fill="none" stroke="#ff6b6b" stroke-width="1" stroke-dasharray="6 9" opacity="0.6">
+    </polygon>
+  <text y="9" text-anchor="middle" font-size="30">🚀</text>
+  <text y="72" text-anchor="middle" font-size="14" font-weight="700" fill="#e6edf3">SaaS Founder</text>
+  <text y="90" text-anchor="middle" font-family="Consolas,monospace" font-size="11.5" fill="#8b949e">WeSelia</text>
+</g>
+<g transform="translate(641,78)" opacity="1">
+  <polygon points="0,-44 38,-22 38,22 0,44 -38,22 -38,-22" fill="#0d1117" stroke="#00ff88" stroke-width="2.5"></polygon>
+  <polygon points="0,-52 45,-26 45,26 0,52 -45,26 -45,-26" fill="none" stroke="#00ff88" stroke-width="1" stroke-dasharray="6 9" opacity="0.6">
+    </polygon>
+  <text y="9" text-anchor="middle" font-size="30">🧠</text>
+  <text y="72" text-anchor="middle" font-size="14" font-weight="700" fill="#e6edf3">Deep Learning</text>
+  <text y="90" text-anchor="middle" font-family="Consolas,monospace" font-size="11.5" fill="#8b949e">pneumonia detection</text>
+</g>
+<g transform="translate(823,78)" opacity="1">
+  <polygon points="0,-44 38,-22 38,22 0,44 -38,22 -38,-22" fill="#0d1117" stroke="#f5c518" stroke-width="2.5"></polygon>
+  <polygon points="0,-52 45,-26 45,26 0,52 -45,26 -45,-26" fill="none" stroke="#f5c518" stroke-width="1" stroke-dasharray="6 9" opacity="0.6">
+    </polygon>
+  <text y="9" text-anchor="middle" font-size="30">🔐</text>
+  <text y="72" text-anchor="middle" font-size="14" font-weight="700" fill="#e6edf3">Security</text>
+  <text y="90" text-anchor="middle" font-family="Consolas,monospace" font-size="11.5" fill="#8b949e">NGFW audit @ T-MAN</text>
+</g>
+<g transform="translate(1005,78)" opacity="1">
+  <polygon points="0,-44 38,-22 38,22 0,44 -38,22 -38,-22" fill="#0d1117" stroke="#4dd0e1" stroke-width="2.5"></polygon>
+  <polygon points="0,-52 45,-26 45,26 0,52 -45,26 -45,-26" fill="none" stroke="#4dd0e1" stroke-width="1" stroke-dasharray="6 9" opacity="0.6">
+    </polygon>
+  <text y="9" text-anchor="middle" font-size="30">🎓</text>
+  <text y="72" text-anchor="middle" font-size="14" font-weight="700" fill="#e6edf3">M2 IA²</text>
+  <text y="90" text-anchor="middle" font-family="Consolas,monospace" font-size="11.5" fill="#8b949e">Université Côte d Azur</text>
+</g>
+</svg>

@@ -1,10 +1,10 @@
-<svg width="1200" height="36" viewBox="0 0 1200 36" xmlns="http://www.w3.org/2000/svg">
-<defs><linearGradient id="dl" x1="0" y1="0" x2="1" y2="0">
-<stop offset="0" stop-color="#36BCF7" stop-opacity="0"></stop><stop offset="0.25" stop-color="#36BCF7"></stop><stop offset="0.5" stop-color="#b16cff"></stop><stop offset="0.75" stop-color="#00ff88"></stop><stop offset="1" stop-color="#00ff88" stop-opacity="0"></stop>
-</linearGradient></defs>
-<line x1="40" y1="18" x2="1160" y2="18" stroke="url(#dl)" stroke-width="1.6" stroke-dasharray="10 7">
-  
-</line>
-<circle cy="18" r="4" fill="#36BCF7"></circle>
-<circle cx="600" cy="18" r="6" fill="none" stroke="#b16cff" stroke-width="1.4"></circle>
+<svg width="1280" height="46" viewBox="0 0 1280 46" xmlns="http://www.w3.org/2000/svg">
+<defs><filter id="g"><feGaussianBlur stdDeviation="2.5" result="b"></feGaussianBlur><feMerge><feMergeNode in="b"></feMergeNode><feMergeNode in="SourceGraphic"></feMergeNode></feMerge></filter></defs>
+<path id="tr" d="M 20 23 H 340 L 365 10 H 520 L 545 23 H 735 L 760 36 H 915 L 940 23 H 1260" fill="none" stroke="#233050" stroke-width="2"></path>
+<g fill="#233050"><circle cx="340" cy="23" r="4"></circle><circle cx="545" cy="23" r="4"></circle><circle cx="940" cy="23" r="4"></circle></g>
+<circle r="4" fill="#36BCF7" filter="url(#g)"></circle>
+<circle r="3" fill="#00ff88" filter="url(#g)"></circle>
+<circle r="3" fill="#b16cff" filter="url(#g)"></circle>
+<g><circle cx="20" cy="23" r="5" fill="#36BCF7"></circle>
+<circle cx="1260" cy="23" r="5" fill="#00ff88"></circle></g>
 </svg>

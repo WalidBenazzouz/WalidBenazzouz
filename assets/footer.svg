@@ -1,0 +1,14 @@
+<svg width="1280" height="200" viewBox="0 0 1280 200" xmlns="http://www.w3.org/2000/svg" font-family="Segoe UI,Helvetica,Arial,sans-serif">
+
+<defs>
+<linearGradient id="fg1" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#36BCF7"></stop><stop offset="1" stop-color="#b16cff"></stop></linearGradient>
+<linearGradient id="fg2" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#b16cff"></stop><stop offset="1" stop-color="#00ff88"></stop></linearGradient>
+</defs>
+<g class="f1" opacity="0.25"><path d="M0 150 Q 160 110 320 150 T 640 150 T 960 150 T 1280 150 T 1600 150 T 1920 150 V 200 H 0 Z" fill="url(#fg1)"></path></g>
+<g class="f2" opacity="0.35"><path d="M0 165 Q 160 130 320 165 T 640 165 T 960 165 T 1280 165 T 1600 165 T 1920 165 V 200 H 0 Z" fill="url(#fg2)"></path></g>
+<g class="f3" opacity="0.5"><path d="M0 180 Q 160 155 320 180 T 640 180 T 960 180 T 1280 180 T 1600 180 T 1920 180 V 200 H 0 Z" fill="url(#fg1)"></path></g>
+<text x="640" y="60" text-anchor="middle" font-size="24" font-weight="700" fill="#e6edf3">Thanks for visiting <tspan class="hb" fill="#ff6b6b">❤</tspan></text>
+<text x="640" y="95" text-anchor="middle" font-family="Consolas,monospace" font-size="15" fill="#8b949e">crafted with code, coffee &amp; curiosity — Casablanca 🇲🇦</text>
+<g text-anchor="middle" font-family="Consolas,monospace" font-size="13">
+<text x="640" y="128" fill="#5a6785">star ⭐ a repo if something inspired you</text></g>
+</svg>

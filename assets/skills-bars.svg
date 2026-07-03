@@ -1,0 +1,70 @@
+<svg width="1100" height="330" viewBox="0 0 1100 330" xmlns="http://www.w3.org/2000/svg">
+<rect width="1100" height="330" rx="14" fill="#0a0f1e" stroke="#1f2a44"></rect>
+<text x="30" y="42" font-family="Consolas,monospace" font-size="14" fill="#5a6785">// proficiency.scan() — top skills</text>
+<g font-family="Consolas,monospace">
+<text x="30" y="85" font-size="15" fill="#e6edf3">Java · Spring Boot</text>
+<rect x="270" y="70" width="720" height="20" rx="10" fill="#141b2e"></rect>
+<rect x="270" y="70" width="662" height="20" rx="10" fill="#36BCF7" opacity="0.9">
+  </rect>
+<rect x="270" y="70" width="46" height="20" rx="10" fill="#fff" opacity="0.13">
+  
+  
+  </rect>
+<text x="948" y="85" font-size="14" fill="#36BCF7" opacity="1">92%</text>
+</g>
+<g font-family="Consolas,monospace">
+<text x="30" y="125" font-size="15" fill="#e6edf3">Python · FastAPI</text>
+<rect x="270" y="110" width="720" height="20" rx="10" fill="#141b2e"></rect>
+<rect x="270" y="110" width="648" height="20" rx="10" fill="#00ff88" opacity="0.9">
+  </rect>
+<rect x="270" y="110" width="46" height="20" rx="10" fill="#fff" opacity="0.13">
+  
+  
+  </rect>
+<text x="934" y="125" font-size="14" fill="#00ff88" opacity="1">90%</text>
+</g>
+<g font-family="Consolas,monospace">
+<text x="30" y="165" font-size="15" fill="#e6edf3">AI — RAG · LangChain · LLMs</text>
+<rect x="270" y="150" width="720" height="20" rx="10" fill="#141b2e"></rect>
+<rect x="270" y="150" width="634" height="20" rx="10" fill="#b16cff" opacity="0.9">
+  </rect>
+<rect x="270" y="150" width="46" height="20" rx="10" fill="#fff" opacity="0.13">
+  
+  
+  </rect>
+<text x="920" y="165" font-size="14" fill="#b16cff" opacity="1">88%</text>
+</g>
+<g font-family="Consolas,monospace">
+<text x="30" y="205" font-size="15" fill="#e6edf3">React · Angular · TypeScript</text>
+<rect x="270" y="190" width="720" height="20" rx="10" fill="#141b2e"></rect>
+<rect x="270" y="190" width="605" height="20" rx="10" fill="#ff6b6b" opacity="0.9">
+  </rect>
+<rect x="270" y="190" width="46" height="20" rx="10" fill="#fff" opacity="0.13">
+  
+  
+  </rect>
+<text x="891" y="205" font-size="14" fill="#ff6b6b" opacity="1">84%</text>
+</g>
+<g font-family="Consolas,monospace">
+<text x="30" y="245" font-size="15" fill="#e6edf3">SQL · Oracle · PostgreSQL</text>
+<rect x="270" y="230" width="720" height="20" rx="10" fill="#141b2e"></rect>
+<rect x="270" y="230" width="626" height="20" rx="10" fill="#f5c518" opacity="0.9">
+  </rect>
+<rect x="270" y="230" width="46" height="20" rx="10" fill="#fff" opacity="0.13">
+  
+  
+  </rect>
+<text x="912" y="245" font-size="14" fill="#f5c518" opacity="1">87%</text>
+</g>
+<g font-family="Consolas,monospace">
+<text x="30" y="285" font-size="15" fill="#e6edf3">Docker · Kubernetes · CI/CD</text>
+<rect x="270" y="270" width="720" height="20" rx="10" fill="#141b2e"></rect>
+<rect x="270" y="270" width="590" height="20" rx="10" fill="#4dd0e1" opacity="0.9">
+  </rect>
+<rect x="270" y="270" width="46" height="20" rx="10" fill="#fff" opacity="0.13">
+  
+  
+  </rect>
+<text x="876" y="285" font-size="14" fill="#4dd0e1" opacity="1">82%</text>
+</g>
+</svg>

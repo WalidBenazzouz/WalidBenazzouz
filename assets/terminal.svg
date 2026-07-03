@@ -1,0 +1,12 @@
+<svg width="1100" height="360" viewBox="0 0 1100 360" xmlns="http://www.w3.org/2000/svg" font-family="Consolas,Menlo,monospace" font-size="16">
+<rect width="1100" height="360" rx="14" fill="#0d1117" stroke="#233050" stroke-width="1.5"></rect>
+<rect width="1100" height="42" rx="14" fill="#161b22"></rect><rect y="28" width="1100" height="14" fill="#161b22"></rect>
+<circle cx="26" cy="21" r="6.5" fill="#ff5f57"></circle><circle cx="48" cy="21" r="6.5" fill="#febc2e"></circle><circle cx="70" cy="21" r="6.5" fill="#28c840"></circle>
+<text x="550" y="26" text-anchor="middle" fill="#8b949e" font-size="13">walid@engineer: ~/portfolio — zsh</text>
+<clipPath id="tc1"><rect x="34" y="63" width="110" height="23"></rect></clipPath>
+<g clip-path="url(#tc1)"><text x="34" y="80" fill="#e6edf3"><tspan fill="#00ff88">$</tspan> whoami</text></g><g opacity="1"><text x="34" y="106" fill="#8b949e">→ Walid Benazzouz — Software Engineer <tspan fill="#36BCF7">[full-stack · data · AI]</tspan></text></g><clipPath id="tc2"><rect x="34" y="123" width="200" height="23"></rect></clipPath>
+<g clip-path="url(#tc2)"><text x="34" y="140" fill="#e6edf3"><tspan fill="#00ff88">$</tspan> current --mission</text></g><g opacity="1"><text x="34" y="166" fill="#8b949e">→ Data &amp; Backend Engineering @ <tspan fill="#f5c518">Crédit du Maroc 🏦</tspan> — payment-flow automation</text></g><clipPath id="tc3"><rect x="34" y="183" width="175" height="23"></rect></clipPath>
+<g clip-path="url(#tc3)"><text x="34" y="200" fill="#e6edf3"><tspan fill="#00ff88">$</tspan> now --building</text></g><g opacity="1"><text x="34" y="226" fill="#8b949e">→ <tspan fill="#b16cff">WeSelia</tspan> 🚀 — AI recruitment SaaS · explainable CV ↔ job matching</text></g><clipPath id="tc4"><rect x="34" y="243" width="200" height="23"></rect></clipPath>
+<g clip-path="url(#tc4)"><text x="34" y="260" fill="#e6edf3"><tspan fill="#00ff88">$</tspan> stack --favorites</text></g><g opacity="1"><text x="34" y="286" fill="#8b949e">→ Java · Spring Boot · Python · FastAPI · React · LangChain · Docker · K8s</text></g><clipPath id="tc5"><rect x="34" y="303" width="95" height="23"></rect></clipPath>
+<g clip-path="url(#tc5)"><text x="34" y="320" fill="#e6edf3"><tspan fill="#00ff88">$</tspan> status</text></g><g opacity="1"><text x="34" y="340" fill="#00ff88">● all systems operational — open to opportunities</text><text x="470" y="340" fill="#e6edf3">▊</text></g>
+</svg>

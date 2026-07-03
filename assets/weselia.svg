@@ -1,0 +1,41 @@
+<svg width="1100" height="300" viewBox="0 0 1100 300" xmlns="http://www.w3.org/2000/svg" font-family="Segoe UI,Helvetica,Arial,sans-serif">
+<defs>
+<linearGradient id="wg" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#36BCF7"></stop><stop offset="1" stop-color="#b16cff"></stop></linearGradient>
+<linearGradient id="beam" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#36BCF7" stop-opacity="0"></stop><stop offset="0.5" stop-color="#36BCF7"></stop><stop offset="1" stop-color="#36BCF7" stop-opacity="0"></stop></linearGradient>
+<filter id="wgl"><feGaussianBlur stdDeviation="3" result="b"></feGaussianBlur><feMerge><feMergeNode in="b"></feMergeNode><feMergeNode in="SourceGraphic"></feMergeNode></feMerge></filter>
+</defs>
+<rect width="1100" height="300" rx="16" fill="#0a0f1e" stroke="#1f2a44"></rect>
+<text x="34" y="52" font-size="30" font-weight="800" fill="url(#wg)">WeSelia</text>
+<text x="160" y="52" font-family="Consolas,monospace" font-size="14" fill="#8b949e">— AI recruitment SaaS · flagship project 🚀</text>
+<g transform="translate(120,120)">
+  <rect x="-45" y="-10" width="90" height="116" rx="8" fill="#0d1117" stroke="#36BCF7" stroke-width="2"></rect>
+  <text y="24" text-anchor="middle" font-size="26">📄</text>
+  <text y="52" text-anchor="middle" font-family="Consolas,monospace" font-size="13" fill="#36BCF7">CV</text>
+  <g stroke="#233050" stroke-width="3" stroke-linecap="round"><line x1="-28" y1="68" x2="28" y2="68"></line><line x1="-28" y1="80" x2="16" y2="80"></line><line x1="-28" y1="92" x2="22" y2="92"></line></g>
+</g>
+<g transform="translate(980,120)">
+  <rect x="-45" y="-10" width="90" height="116" rx="8" fill="#0d1117" stroke="#b16cff" stroke-width="2"></rect>
+  <text y="24" text-anchor="middle" font-size="26">💼</text>
+  <text y="52" text-anchor="middle" font-family="Consolas,monospace" font-size="13" fill="#b16cff">JOB</text>
+  <g stroke="#233050" stroke-width="3" stroke-linecap="round"><line x1="-28" y1="68" x2="28" y2="68"></line><line x1="-28" y1="80" x2="16" y2="80"></line><line x1="-28" y1="92" x2="22" y2="92"></line></g>
+</g>
+<rect x="180" y="172" width="250" height="2.5" fill="url(#beam)"></rect>
+<rect x="670" y="172" width="250" height="2.5" fill="url(#beam)"></rect>
+<circle r="4" fill="#36BCF7" filter="url(#wgl)"></circle>
+<circle r="4" fill="#b16cff" filter="url(#wgl)"></circle>
+<g transform="translate(550,168)">
+  <circle r="64" fill="#0d1117" stroke="#233050" stroke-width="10"></circle>
+  <circle r="64" fill="none" stroke="url(#wg)" stroke-width="10" stroke-linecap="round" stroke-dasharray="402" stroke-dashoffset="33.9" transform="rotate(-90)">
+    
+  </circle>
+  <text y="-2" text-anchor="middle" font-weight="800" font-size="34" fill="#e6edf3" opacity="1">94%</text>
+  <text y="24" text-anchor="middle" font-family="Consolas,monospace" font-size="13" fill="#00ff88" opacity="1">MATCH · explainable</text>
+  <circle r="76" fill="none" stroke="#36BCF7" stroke-width="1" stroke-dasharray="5 12" opacity="0.7"></circle>
+</g>
+<g font-family="Consolas,monospace" font-size="13" text-anchor="middle">
+<g opacity="1"><rect x="345" y="60" width="128" height="28" rx="14" fill="#0d1117" stroke="#00ff88"></rect><text x="409" y="79" fill="#00ff88">semantic NLP</text></g>
+<g opacity="1"><rect x="620" y="60" width="150" height="28" rx="14" fill="#0d1117" stroke="#f5c518"></rect><text x="695" y="79" fill="#f5c518">skill extraction</text></g>
+<g opacity="1"><rect x="360" y="248" width="170" height="28" rx="14" fill="#0d1117" stroke="#ff6b6b"></rect><text x="445" y="267" fill="#ff6b6b">explainable scoring</text></g>
+<g opacity="1"><rect x="580" y="248" width="160" height="28" rx="14" fill="#0d1117" stroke="#36BCF7"></rect><text x="660" y="267" fill="#36BCF7">SaaS multi-tenant</text></g>
+</g>
+</svg>

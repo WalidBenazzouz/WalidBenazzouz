@@ -1,20 +1,18 @@
-<!-- ══════════════════════════════════════════════════════════════
-     ⚡ WALID BENAZZOUZ — GITHUB PROFILE
-     Custom animated SVGs live in ./assets — keep the folder
-     next to this README in the WalidBenazzouz/WalidBenazzouz repo.
-     ══════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════════
+     ⚡ WALID BENAZZOUZ — GITHUB PROFILE v3
+     17 custom animated SVGs live in ./assets — keep that folder next
+     to this README inside the WalidBenazzouz/WalidBenazzouz repo.
+     ══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<!-- ⚡ CUSTOM ANIMATED HERO -->
+<!-- ⚡ CINEMATIC HERO — matrix rain · neon grid · glitch · shooting stars -->
 <img src="assets/hero.svg" width="100%" alt="Walid Benazzouz — Software Engineer"/>
 
 <!-- ⚡ LIVE TYPING -->
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2600&pause=700&color=36BCF7&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=115&lines=%F0%9F%A4%96+Generative+AI+%E2%80%94+RAG+chatbot+shipped+%40+Royal+Air+Maroc;%F0%9F%8F%A6+Data+%26+Backend+Engineering+%40+Cr%C3%A9dit+du+Maroc;%F0%9F%9A%80+Founder-builder+of+WeSelia+%E2%80%94+AI+Recruitment+SaaS" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2600&pause=700&color=36BCF7&center=true&vCenter=true&multiline=true&repeat=true&width=820&height=115&lines=%F0%9F%A4%96+Generative+AI+%E2%80%94+RAG+chatbot+shipped+%40+Royal+Air+Maroc;%F0%9F%8F%A6+Data+%26+Backend+Engineering+%40+Cr%C3%A9dit+du+Maroc;%F0%9F%9A%80+Founder-builder+of+WeSelia+%E2%80%94+AI+Recruitment+SaaS" alt="Typing SVG" />
 </a>
-
-<br/>
 
 <!-- ⚡ COUNTERS -->
 <p>
@@ -23,17 +21,20 @@
     <img src="https://img.shields.io/github/stars/WalidBenazzouz?label=STARS&style=for-the-badge&color=f5c518&labelColor=1a1a2e&logo=apachespark&logoColor=f5c518" alt="Stars" />
 </p>
 
+<!-- ⚡ SCROLLING TECH TICKER -->
+<img src="assets/marquee.svg" width="100%" alt="Tech ticker"/>
+
 </div>
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
 <!-- ════════════════════════ 01 · ABOUT ════════════════════════ -->
 
-<img src="assets/section-about.svg" width="800" alt="About Me"/>
+<img src="assets/section-about.svg" width="860" alt="About Me"/>
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="58%" valign="top">
 
 ```typescript
 const walid: Engineer = {
@@ -56,49 +57,36 @@ const walid: Engineer = {
 ```
 
 </td>
-<td width="40%" valign="top">
+<td width="42%" valign="top" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding"/>
 
 <br/>
 
 > 🏦 **Banking** · ✈️ **Aviation** · 🤝 **HR-Tech**
 > *Real AI, deployed in real industries.*
 
-<br/>
-
-- 🧠 **RAG architectures** in production, not tutorials
-- 📊 **SQL optimization** with direct business impact
-- 🔐 Security-first mindset — *auth, RBAC, audit logs*
-- 🎨 Digital-art enthusiast & 🚗 mechanics lover
-- ☕ Powered by coffee & curiosity
-
-<br/>
-
-<div align="center">
 <img src="https://img.shields.io/badge/●%20OPEN%20TO%20OPPORTUNITIES-00ff88?style=for-the-badge&labelColor=1a1a2e" />
-</div>
 
 </td>
 </tr>
 </table>
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<!-- ⚡ SELF-TYPING TERMINAL -->
+<div align="center">
+<img src="assets/terminal.svg" width="90%" alt="Terminal"/>
+</div>
+
+<img src="assets/divider-wave.svg" width="100%" alt=""/>
 
 <!-- ════════════════════════ 02 · JOURNEY ════════════════════════ -->
 
-<img src="assets/section-journey.svg" width="800" alt="Professional Journey"/>
+<img src="assets/section-journey.svg" width="860" alt="Professional Journey"/>
 
-```mermaid
-%%{init: {'theme':'dark', 'themeVariables': {'primaryColor':'#36BCF7','primaryTextColor':'#fff','lineColor':'#b16cff'}}}%%
-timeline
-    title 🛰️ From Cybersecurity to Applied AI
-    2024 : 🔐 T-MAN Holding
-         : Security audit — NGFW firewall & automated backups
-    2025 : ✈️ Royal Air Maroc
-         : Generative AI — RAG chatbot + secured admin infra (RBAC, audit logs)
-    2026 : 🏦 Crédit du Maroc
-         : Data & Backend — payment automation, SQL optimization, data quality
-         : 🎓 M2 MIAGE IA² — Université Côte d'Azur
-```
+<!-- ⚡ ANIMATED CAREER TIMELINE -->
+<div align="center">
+<img src="assets/timeline.svg" width="100%" alt="Career timeline 2021—2026"/>
+</div>
 
 <details>
 <summary>&nbsp;<img src="https://img.shields.io/badge/🏦_Crédit_du_Maroc-Data_&_Backend_Engineer-36bcf7?style=flat-square&labelColor=1a1a2e" /> &nbsp;<em>Mar – Aug 2026 · Casablanca</em> &nbsp;▼</summary>
@@ -139,155 +127,146 @@ timeline
 
 <!-- ════════════════════════ 03 · PROJECTS ════════════════════════ -->
 
-<img src="assets/section-projects.svg" width="800" alt="Featured Projects"/>
+<img src="assets/section-projects.svg" width="860" alt="Featured Projects"/>
+
+<!-- ⚡ FLAGSHIP: WESELIA — animated matching engine -->
+<div align="center">
+<img src="assets/weselia.svg" width="100%" alt="WeSelia — AI recruitment SaaS"/>
+</div>
+
+> **WeSelia** analyzes CVs & job offers with **semantic NLP** and matches candidates ↔ recruiters through a **detailed, explainable compatibility score** — hiring made faster, more accurate, and transparent. 🚀
+
+<br/>
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 <div align="center">
 
-### 🚀 WeSelia
-<img src="https://img.shields.io/badge/AI-Recruitment_SaaS-00d4ff?style=flat-square&labelColor=1a1a2e" /> <img src="https://img.shields.io/badge/NLP-Semantic_Matching-b16cff?style=flat-square&labelColor=1a1a2e" />
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" alt=""/>
+
+### 🤖 RAG Chatbot — RAM
 
 </div>
 
-**AI-powered recruitment platform.** Semantic analysis of CVs & job offers matches candidates and recruiters with a **detailed, explainable compatibility score** — hiring made faster, fairer, and transparent.
+**Production chatbot** for customer assistance with secure admin infra (auth, RBAC, audit logs).
 
-- 🧠 Semantic CV ↔ job-offer skill analysis
-- 📊 Explainable compatibility scoring
-- ⚡ SaaS architecture, recruiter + candidate portals
+`Python` `FastAPI` `React` `Groq` `LangChain`
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 <div align="center">
 
-### 🤖 RAG Chatbot — Royal Air Maroc
-<img src="https://img.shields.io/badge/Python-FastAPI-009688?style=flat-square&labelColor=1a1a2e" /> <img src="https://img.shields.io/badge/LangChain-Groq-FF6B6B?style=flat-square&labelColor=1a1a2e" />
-
-</div>
-
-**Production RAG chatbot** for customer assistance, with a secure admin infrastructure managing the knowledge base and conversations.
-
-- 🧠 Retrieval-Augmented Generation
-- 🔐 Auth, RBAC & audit logging
-- ⚡ Real-time interactions
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<div align="center">
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="100%" alt=""/>
 
 ### 🫁 Pneumonia Detection
-<img src="https://img.shields.io/badge/TensorFlow-Keras-FF6F00?style=flat-square&labelColor=1a1a2e" /> <img src="https://img.shields.io/badge/Deep_Learning-CNN-EE4C2C?style=flat-square&labelColor=1a1a2e" />
 
 </div>
 
-**Deep-learning model detecting pneumonia on chest X-rays** — computer vision applied to medical imaging.
+**CNN deep-learning model** detecting pneumonia on chest X-rays — AI for medical imaging.
 
-- 🩻 CNN-based image classification
-- 📈 Trained & evaluated on radiography datasets
-- 🏥 Healthcare-oriented AI
+`Python` `TensorFlow` `Keras`
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 <div align="center">
 
-### 🎬 Cinema Management Platform
-<img src="https://img.shields.io/badge/ASP.NET-C%23-512BD4?style=flat-square&labelColor=1a1a2e" /> <img src="https://img.shields.io/badge/Pattern-MVC-6DB33F?style=flat-square&labelColor=1a1a2e" />
+<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="100%" alt=""/>
+
+### 🎬 Cinema Platform
 
 </div>
 
-**Digital platform modernizing cinema operations** end-to-end.
+**End-to-end management platform**: booking system, analytics dashboard, modern UI/UX.
 
-- 🎫 Booking system
-- 📊 Analytics dashboard
-- 🎨 Modern UI/UX
+`ASP.NET` `C#` `MVC`
 
 </td>
 </tr>
 </table>
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="assets/divider-wave.svg" width="100%" alt=""/>
 
 <!-- ════════════════════════ 04 · STACK ════════════════════════ -->
 
-<img src="assets/section-stack.svg" width="800" alt="Tech Arsenal"/>
+<img src="assets/section-stack.svg" width="860" alt="Tech Arsenal"/>
 
 <div align="center">
 
 ### ⚙️ Core Stack
 <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,react,angular,ts,js&theme=dark" />
 
-### 🤖 AI & Data
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" />
-<br/>
+### 🔧 DevOps · Cloud · Databases
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,githubactions,azure,linux,postgres,mysql,firebase&theme=dark" />
+
+<br/><br/>
+
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
 <img src="https://img.shields.io/badge/RAG%20Systems-00d4ff?style=for-the-badge&logo=databricks&logoColor=white&labelColor=1a1a2e" />
 <img src="https://img.shields.io/badge/LLMs%20%26%20NLP-b16cff?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=1a1a2e" />
-<img src="https://img.shields.io/badge/Groq-FF6B6B?style=for-the-badge&labelColor=1a1a2e" />
-
-### 🔧 DevOps & Cloud &nbsp;·&nbsp; 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,githubactions,azure,linux,postgres,mysql,firebase&theme=dark" />
-<br/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/Groq-FF6B6B?style=for-the-badge&labelColor=1a1a2e" />
 
 </div>
 
 <br/>
 
-```mermaid
-%%{init: {'theme':'dark'}}%%
-mindmap
-  root((🧠 Walid))
-    🤖 AI Engineering
-      RAG Architectures
-      LLMs & NLP
-      Deep Learning
-      Computer Vision
-    ⚙️ Backend
-      Java / Spring Boot
-      Python / FastAPI
-      REST APIs
-      SQL Optimization
-    🎨 Frontend
-      React
-      Angular
-      TypeScript
-    🚀 DevOps
-      Docker & Kubernetes
-      CI/CD
-      Cybersecurity
-```
+<!-- ⚡ ANIMATED SKILL BARS -->
+<div align="center">
+<img src="assets/skills-bars.svg" width="100%" alt="Skill proficiency"/>
+</div>
+
+<!-- ⚡ NEURAL NETWORK — signals flowing live -->
+<div align="center">
+<img src="assets/ai-core.svg" width="100%" alt="AI pipeline — neural network animation"/>
+</div>
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
 <!-- ════════════════════════ 05 · ANALYTICS ════════════════════════ -->
 
-<img src="assets/section-analytics.svg" width="800" alt="GitHub Analytics"/>
+<img src="assets/section-analytics.svg" width="860" alt="GitHub Analytics"/>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WalidBenazzouz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalidBenazzouz&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=WalidBenazzouz&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
-  <br/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WalidBenazzouz&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=36bcf7&line=b16cff&point=00ff88" width="100%"/>
-  <br/><br/>
-  <img src="https://raw.githubusercontent.com/WalidBenazzouz/WalidBenazzouz/output/github-snake-dark.svg" alt="Contribution snake" />
-  <br/><br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=WalidBenazzouz&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Trophies" />
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=WalidBenazzouz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" height="180" alt="GitHub stats"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=WalidBenazzouz&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="Top languages"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=WalidBenazzouz&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub streak"/>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WalidBenazzouz&theme=tokyonight" width="100%" alt="Profile details"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WalidBenazzouz&theme=tokyonight" width="32.5%" alt=""/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=WalidBenazzouz&theme=tokyonight&utcOffset=1" width="32.5%" alt=""/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WalidBenazzouz&theme=tokyonight" width="32.5%" alt=""/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=WalidBenazzouz&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=36bcf7&line=b16cff&point=00ff88" width="100%" alt="Contribution graph"/>
+
+<!-- 🐍 CONTRIBUTION SNAKE — uncomment after running snake.yml once (see snake-workflow/)
+<img src="https://raw.githubusercontent.com/WalidBenazzouz/WalidBenazzouz/output/github-snake-dark.svg" alt="Contribution snake"/>
+-->
+
+<!-- ⚡ CUSTOM TROPHY WALL -->
+<img src="assets/trophies.svg" width="100%" alt="Achievements"/>
+
 </div>
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="assets/divider-wave.svg" width="100%" alt=""/>
 
 <!-- ════════════════════════ 06 · EDUCATION ════════════════════════ -->
 
-<img src="assets/section-education.svg" width="800" alt="Education and Certifications"/>
+<img src="assets/section-education.svg" width="860" alt="Education and Certifications"/>
 
 <table>
 <tr>
@@ -300,6 +279,10 @@ mindmap
   <sub>EMSI Casablanca · 2025 – 2026</sub>
 - 📐 **Cycle Préparatoire Intégré**
   <sub>EMSI Casablanca · 2021 – 2024</sub>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/216125640-2783ebd5-e63e-4ed1-b491-627a40b24850.png" width="120" alt=""/>
+</div>
 
 </td>
 <td width="50%" valign="top">
@@ -329,9 +312,13 @@ mindmap
 
 <!-- ════════════════════════ 07 · CONNECT ════════════════════════ -->
 
-<img src="assets/section-connect.svg" width="800" alt="Connect With Me"/>
+<img src="assets/section-connect.svg" width="860" alt="Connect With Me"/>
 
 <div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="120" alt=""/>
+
+<br/>
 
 <a href="mailto:Benazzouz.walid@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=maildotru&logoColor=white" /></a>
 &nbsp;
@@ -345,7 +332,7 @@ mindmap
 
 <br/><br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote"/>
 
 <br/>
 
@@ -353,11 +340,7 @@ mindmap
 
 <em>Collaborations in <b>AI</b>, <b>Data Engineering</b> & <b>Full-Stack</b> — or just a tech chat over ☕</em>
 
-<br/><br/>
-
-⭐ <em>Show some love by starring a repository!</em> ⭐
-
 </div>
 
-<!-- ⚡ ANIMATED FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=footer" width="100%"/>
+<!-- ⚡ ANIMATED WAVE FOOTER -->
+<img src="assets/footer.svg" width="100%" alt="Thanks for visiting"/>

@@ -1,0 +1,11 @@
+<svg width="1280" height="86" viewBox="0 0 1280 86" xmlns="http://www.w3.org/2000/svg" font-family="Consolas,monospace" font-weight="bold">
+
+<defs><linearGradient id="fadeLR" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0" stop-color="#fff" stop-opacity="0"></stop><stop offset="0.06" stop-color="#fff"></stop><stop offset="0.94" stop-color="#fff"></stop><stop offset="1" stop-color="#fff" stop-opacity="0"></stop></linearGradient>
+<mask id="mk"><rect width="1280" height="86" fill="url(#fadeLR)"></rect></mask></defs>
+<rect width="1280" height="86" rx="14" fill="#0a0f1e" stroke="#1f2a44"></rect>
+<g mask="url(#mk)">
+<g class="m1"><text x="0" y="34" font-size="17" fill="#36BCF7" letter-spacing="3">JAVA ✦ SPRING BOOT ✦ PYTHON ✦ FASTAPI ✦ REACT ✦ ANGULAR ✦ TYPESCRIPT ✦ LANGCHAIN ✦ RAG ✦ LLMs ✦ JAVA ✦ SPRING BOOT ✦ PYTHON ✦ FASTAPI ✦ REACT ✦ ANGULAR ✦ TYPESCRIPT ✦ LANGCHAIN ✦ RAG ✦ LLMs ✦ </text></g>
+<g class="m2"><text x="0" y="64" font-size="17" fill="#b16cff" letter-spacing="3">DOCKER ✦ KUBERNETES ✦ ORACLE ✦ POSTGRESQL ✦ TENSORFLOW ✦ PYTORCH ✦ GROQ ✦ CI/CD ✦ NLP ✦ DEEP LEARNING ✦ DOCKER ✦ KUBERNETES ✦ ORACLE ✦ POSTGRESQL ✦ TENSORFLOW ✦ PYTORCH ✦ GROQ ✦ CI/CD ✦ NLP ✦ DEEP LEARNING ✦ </text></g>
+</g>
+</svg>
