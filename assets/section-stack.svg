@@ -1,0 +1,17 @@
+<svg width="1000" height="110" viewBox="0 0 1000 110" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#b16cff"></stop><stop offset="1" stop-color="#b16cff"></stop></linearGradient>
+  <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#b16cff"></stop><stop offset="1" stop-color="#b16cff" stop-opacity="0"></stop></linearGradient>
+</defs>
+<g transform="translate(55,55)">
+  <polygon points="0,-34 29.4,-17 29.4,17 0,34 -29.4,17 -29.4,-17" fill="#0d1117" stroke="#b16cff" stroke-width="2"></polygon>
+  <polygon points="0,-42 36.4,-21 36.4,21 0,42 -36.4,21 -36.4,-21" fill="none" stroke="#b16cff" stroke-width="1" stroke-dasharray="6 8" opacity="0.7">
+    
+  </polygon>
+  <text y="10" text-anchor="middle" font-size="28">🧬</text>
+</g>
+<text x="120" y="42" font-family="Consolas, monospace" font-size="14" fill="#8b949e" letter-spacing="4">04 ────────────</text>
+<text x="120" y="78" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-weight="800" font-size="34" fill="url(#g)">TECH ARSENAL</text>
+<text x="120" y="100" font-family="Consolas, monospace" font-size="14" fill="#8b949e">// tools of the trade</text>
+<rect x="120" y="86" width="0" height="2" fill="url(#fade)"></rect>
+</svg>
